@@ -1,0 +1,120 @@
+{
+  "cars": [
+    {
+      "id": 3,
+      "name": "Mercedes AMG GT",
+      "description": "Premium sports car with aggressive styling",
+      "price": 18000000,
+      "discount": 12,
+      "imageUrl": "https://cdni.autocarindia.com/ExtraImages/20230819110738_webai_1_.jpg?w=728&q=75"
+    },
+    {
+      "id": 4,
+      "name": "Lamborghini Huracan",
+      "description": "Exotic supercar with stunning design",
+      "price": 320000,
+      "discount": 5,
+      "imageUrl": "https://sbraceengineering.co.uk/wp-content/uploads/huracan-coupe_LP610-4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Porsche 911",
+      "description": "Legendary sports car with perfect handling",
+      "price": 19000000,
+      "discount": 10,
+      "imageUrl": "https://www.thecarexpert.co.uk/wp-content/uploads/2019/04/PCGB25_0177_fine-1920x960.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ford Mustang",
+      "description": "Classic muscle car with modern power",
+      "price": 7200000,
+      "discount": 14,
+      "imageUrl": "https://editorial.pxcrush.net/carsales/general/editorial/2025-ford-mustang-gt-fastback_108.jpg?width=1024&height=682"
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Camaro",
+      "description": "American muscle car with bold design",
+      "price": 6500000,
+      "discount": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=800&h=800&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Tesla Model S",
+      "description": "Electric luxury sedan with autopilot",
+      "price": 9000000,
+      "discount": 9,
+      "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-S/5252/1611840999494/exterior-image-165.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Range Rover",
+      "description": "Luxury SUV with off-road performance",
+      "price": 14500000,
+      "discount": 11,
+      "imageUrl": "https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_580,q_75,w_906/n20onzdjgzcnueh01av5.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Jaguar F-Type",
+      "description": "Stylish British sports car",
+      "price": 12500000,
+      "discount": 13,
+      "imageUrl": "https://hagerty-media-prod.imgix.net/2021/03/New-Jaguar-F-TYPE_R-Coupe-AWD_Sorrento-Yellow-Lede.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Nissan GTR",
+      "description": "High-performance Japanese supercar",
+      "price": 21000000,
+      "discount": 7,
+      "imageUrl": "https://imgd-ct.aeplcdn.com/664x415/cw/ec/20361/Nissan-GTR-Exterior-84915.jpg?v=201711021421&q=80"
+    },
+    {
+      "id": 13,
+      "name": "McLaren 720S",
+      "description": "Ultra-lightweight supercar",
+      "price": 38000000,
+      "discount": 4,
+      "imageUrl": "https://www.exoticcarhacks.com/wp-content/uploads/2024/04/oUqsIYLw.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Toyota Supra",
+      "description": "Legendary sports coupe reborn",
+      "price": 8500000,
+      "discount": 16,
+      "imageUrl": "https://drivar.at/wp-content/uploads/2024/02/Mclaren-rennstrecken-training-1.jpg"
+    },
+    {
+      "id": 15,
+      "name": "BMW i8",
+      "description": "Hybrid sports car with futuristic design",
+      "price": 26000000,
+      "discount": 9,
+      "imageUrl": "https://www.carblogindia.com/wp-content/uploads/2020/01/BMW-i8.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Mahadev Car",
+      "description": "Sporty hatchback with performance tuning",
+      "price": 4500000,
+      "discount": 18,
+      "imageUrl": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maserati/Quattroporte/7556/1735977110526/front-left-view-angle-116.jpg"
+    }
+  ],
+  "users": [
+    {
+      "firstname": "Dipak",
+      "lastname": "Sonawane",
+      "email": "dipakrsonawane2020@gmail.com",
+      "phoneNumber": "09322266019",
+      "password": "Drs@4241",
+      "id": 1
+    }
+  ],
+  "kycdetail": [],
+  "purchasedetail": []
+}
